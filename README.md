@@ -1,1 +1,1 @@
-read teste o
+read teste os
