@@ -17,7 +17,6 @@ spec:
           image: us-central1-docker.pkg.dev/adam-sandbox-425004/gke-repo/quickstart-image
           ports:
             - containerPort: 8080
-          imagePullPolicy: Always 
 
 apiVersion: v1
 kind: Service

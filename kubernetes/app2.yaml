@@ -17,7 +17,6 @@ spec:
           image: us-central1-docker.pkg.dev/adam-sandbox-425004/gke-repo/flask-image
           ports:
             - containerPort: 8081
-          imagePullPolicy: Always 
 
 ---
 
